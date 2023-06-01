@@ -13,7 +13,4 @@ Sends a VIP channel link to the member
 
 It also has a small management panel
 The administrator can change the text
-I mean vip details
-Even if it is difficult
-Tell me where to change in the code
-Whenever I needed to change, I did it
+I mean vip details 
